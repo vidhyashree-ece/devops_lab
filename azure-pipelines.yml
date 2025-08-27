@@ -11,4 +11,4 @@ pool:
 
 steps:
 - script: echo "Hello Azure Pipeline ! your setup works"
-  displayname: 'Run Hello World script'
+  displayName: 'Run Hello World script'
